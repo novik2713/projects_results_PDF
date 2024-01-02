@@ -21,4 +21,4 @@ What truly defines the best wine, and how do we predict it when faced with limit
 🌊Key takeaways? It all comes down to achieving balance - balance in the components is a guaranteed victory in creating the best wine☀️
 *The project was implemented during 2-6 week out of 21 at Code Academy Berlin 'Data Analytics and Machine Learning Program'*
 
-✔️ Project 3: [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)
+✔️ Project 3:Capital BikeShare [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)
