@@ -2,14 +2,14 @@ Hey there! 👋 Check out my GitHub for some cool project final presentations.
 I've poured my heart into these, showcasing my analytical and presentation skills. Excited to share my journey and the awesome work I've done. 
 Let me know what you think! 🚀
 
-✔️ Project 1: Fundamental Graphs & Tableau
+✔️ Project 1: Fundamental Graphs & Tableau [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_1_CAB_Movies.pdf)
 An exploration into the realm of Tableau and fundamental graphs. This project serves as a precursor to forthcoming Python-centric assignments, offering foundational insights.
 
 Btw, I spiced it up a bit. Created a fake email from my "boss" and answered it with my presentation. Real-world vibes, you know?🚀😜
 🎥Moreover, I incorporated an element of engagement by concluding the project with "Successful Cases" – a movie examples featuring varying durations, genres, and associated minimum costs per minute.📺
 *The project was implemented during 1 week out of 21 at Code Academy Berlin 'Data Analytics and Machine Learning Program'*
 
-✔️Project 2: BlueBerry Winery
+✔️Project 2: BlueBerry Winery [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_2_CAB_BlueBerryWinery.pdf)
 🍇A journey into the world of Python, Statistics, their application in Machine Learning and WINE🍇🍇BlueBerry Winery, a startup in the wine-making business, seeks our expertise in building a Wine Quality Analytics System. Their goal? To determine the quality of their wines based on composition.
 
 I experimented with various models to identify the one yielding optimal results. 
@@ -18,3 +18,5 @@ A crucial aspect of my exploration was a continuous self-inquiry: determining wh
 What truly defines the best wine, and how do we predict it when faced with limited data?
 🌊Key takeaways? It all comes down to achieving balance - balance in the components is a guaranteed victory in creating the best wine☀️
 *The project was implemented during 2-6 week out of 21 at Code Academy Berlin 'Data Analytics and Machine Learning Program'*
+
+✔️ Project 3: [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)
