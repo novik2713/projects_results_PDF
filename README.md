@@ -22,3 +22,24 @@ What truly defines the best wine, and how do we predict it when faced with limit
 *The project was implemented during 2-6 week out of 21 at Code Academy Berlin 'Data Analytics and Machine Learning Program'*
 
 ✔️ Project 3:Capital BikeShare [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)
+*The project was implemented as part of the Datanalysis & Machine Learning Bootcamp at Code Academy Berlin
+7-10/21 week of the program*
+
+✔️ Project 4 focused on learning SQL.[Explore some tasks here](https://github.com/novik2713/SQL_DailyTasks)
+*The project was implemented as part of the Datanalysis & Machine Learning Bootcamp at Code Academy Berlin
+11-12/21 week of the program*
+
+✔️ Project 5 BI Analysis
+*The project was implemented as part of the Datanalysis & Machine Learning Bootcamp at Code Academy Berlin
+13-15/21 week of the program*
+
+✔️ Career week [Explore more about me here](https://www.linkedin.com/in/novachynskyi/)
+*16/21 week of the program*
+
+✔️ Project 6 
+*The project was implemented as part of the Datanalysis & Machine Learning Bootcamp at Code Academy Berlin
+17-18/21 week of the program*
+
+✔️ Final Project
+*The project was implemented as part of the Datanalysis & Machine Learning Bootcamp at Code Academy Berlin
+19-21 week of the program*
