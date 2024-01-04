@@ -19,6 +19,8 @@ Initially, I concentrated on solving a binary classification problem, and later,
 A crucial aspect of my exploration was a continuous self-inquiry: determining which components stand independently and which are interconnected, all while focusing on the fundamental questions at hand. 
 What truly defines the best wine, and how do we predict it when faced with limited data?
 🌊Key takeaways? It all comes down to achieving balance - balance in the components is a guaranteed victory in creating the best wine☀️
+[Some code](https://github.com/novik2713/CAB_Winery_Project)
+
 *The project was implemented during 2-6 week out of 21 at Code Academy Berlin 'Data Analytics and Machine Learning Program'*
 
 ✔️ Project 3:Capital BikeShare [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)
