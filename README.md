@@ -22,6 +22,9 @@ What truly defines the best wine, and how do we predict it when faced with limit
 *The project was implemented during 2-6 week out of 21 at Code Academy Berlin 'Data Analytics and Machine Learning Program'*
 
 ✔️ Project 3:Capital BikeShare [Explore the project here](https://github.com/novik2713/projects_results_PDF/blob/main/Project_3_CAB_CapitalBikeShare.pdf)
+Project focuses on Data Wrangling, Exploratory Data Analysis, Time Series and Linear Regression
+[Some code](https://github.com/novik2713/CAB_BikeShare)
+
 *The project was implemented as part of the Datanalysis & Machine Learning Bootcamp at Code Academy Berlin
 7-10/21 week of the program*
 
